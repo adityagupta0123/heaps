@@ -2,7 +2,6 @@ import java.io.*;
 import java.util.*;
 
 public class Main {
-
   public static class MedianPriorityQueue {
     PriorityQueue<Integer> left;
     PriorityQueue<Integer> right;
